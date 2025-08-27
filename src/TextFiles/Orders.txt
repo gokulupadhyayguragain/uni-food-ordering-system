@@ -1,0 +1,10 @@
+
+Order: Samosa x3 ($60.0), ChickenBriyani x1 ($375.0) | Total: $435.0 | Status: Pending
+Order: Samosa x5 ($100.0), MilkTea x1 ($25.0) | Total: $125.0 | Status: Pending
+Order: MoMo x2 ($240.0), Pizza x1 ($375.0) | Total: $615.0 | Status: Pending
+Order: Taco x1 ($80.0) | Total: $80.0 | Status: Pending
+Order: Taco x1 ($80.0) | Total: $80.0 | Status: Pending
+Order: MoMo x7 ($840.0) | Total: $840.0 | Status: Pending
+Order: MoMo x1 ($120.0), Sandwich x1 ($30.0) | Total: $150.0 | Status: Pending
+Order: Samosa x4 ($80.0), Chowmein x1 ($70.0) | Total: $150.0 | Status: Pending
+Order: Samosa x4 ($80.0), Chowmein x4 ($280.0) | Total: $360.0 | Status: Pending
